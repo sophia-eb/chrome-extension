@@ -1,6 +1,6 @@
-import React from 'react';
+import React from "react";
 import SearchModal from "./content_scripts/searchModal";
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
