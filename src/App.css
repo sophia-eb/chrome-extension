@@ -1,0 +1,31 @@
+.App {
+  text-align: left;
+  width: 220px;
+  height: 180px;
+}
+
+.inputContainer {
+  margin-top: 8px;
+  width: 100%;
+  display: inline-block;
+}
+
+input {
+  padding: 4px 6px;
+  width: 200px;
+}
+
+button {
+  width: 216px;
+  margin-top: 10px;
+  padding: 6px 12px;
+  background-color: #1677ff;
+  color: white;
+  border: unset;
+  border-radius: 5px;
+  cursor: pointer;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}
